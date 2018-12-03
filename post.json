@@ -1,0 +1,27 @@
+{
+	"id": "Post id",
+	"title": "Title of post",
+	"content": "Post content",
+	"author": "Author of post",
+	"dateCreated": "DateTime",
+	"tags": [
+		"tag1",
+		"tag2",
+		"tag3"
+	],
+	"likes": "Total likes",
+	"comments": [
+		{
+			"user": "username",
+			"message": "text",
+			"dateCreated": "DateTime",
+			"likes": "total likes"
+		},
+		{
+			"user": "username",
+			"message": "text",
+			"dateCreated": "DateTime",
+			"likes": "total likes"
+		}
+	]
+}
